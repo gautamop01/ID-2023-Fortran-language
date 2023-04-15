@@ -19,3 +19,4 @@ plt.xlabel('X coordinate')
 plt.ylabel('Probability')
 
 plt.show()
+// for plotting graph but after some time i use google excel sheet 
