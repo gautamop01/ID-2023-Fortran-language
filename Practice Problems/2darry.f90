@@ -19,5 +19,4 @@
                 z(i,j)=a(i-6,j-1)+ b(i+1,j-3)
             end do
         end do
-         
      end program sumof2darry
