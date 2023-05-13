@@ -2,7 +2,7 @@
 Fortran 90/95
 
 ## Practice Problems 
-- [click Here](Practice Problems/)
+- Click Here -> Practice Problems
 2D_Mc_int.f90
 
 2darry.f90
